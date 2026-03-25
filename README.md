@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Mohamed Mahmoud 👋
 
-<!--
-**MohamedElsayad5/MohamedElsayad5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Cloud & DevOps Engineer with a background in Electrical & Communication Engineering.
 
-Here are some ideas to get you started:
+I’m currently focused on building real hands-on experience in cloud infrastructure, automation, and deployment workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What I'm Working On
+
+* Building AWS infrastructure (VPC, EC2, networking setups)
+* Learning Infrastructure as Code using Terraform
+* Practicing containerization with Docker
+* Exploring CI/CD pipelines using GitHub Actions
+
+---
+
+## 🛠️ Technical Skills
+
+**Cloud & DevOps:**
+
+* AWS (EC2, S3, VPC, IAM)
+* Docker (basics, containerizing apps)
+* Git & GitHub
+* GitHub Actions (basic CI/CD)
+
+**Systems:**
+
+* Linux (basic administration)
+* Windows Server (Active Directory fundamentals)
+
+**Networking:**
+
+* TCP/IP, Subnetting, Routing (CCNA level)
+
+---
+
+## 📂 Projects
+
+I’m currently building and improving my projects.
+Some of the work includes:
+
+* AWS VPC setup with public/private subnets
+* Basic Dockerized application
+* CI/CD pipeline experiments
+
+(More detailed projects coming soon)
+
+---
+
+## 📈 Learning Goals
+
+* Improve Terraform skills and build reusable infrastructure
+* Learn Kubernetes fundamentals
+* Prepare for AWS Solutions Architect Associate
+
+---
+
+## 📫 Contact
+
+* LinkedIn: (add your link)
+* Email: (your email)

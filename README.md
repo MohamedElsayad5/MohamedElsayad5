@@ -58,5 +58,5 @@ Some of the work includes:
 
 ## 📫 Contact
 
-* LinkedIn: (add your link)
-* Email: (your email)
+* LinkedIn: www.linkedin.com/in/mohamed-mahamoud-elsayad
+* Email: moeyelsayad777@gmail.com

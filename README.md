@@ -1,18 +1,110 @@
-# 💫 About Me:
-I am an Electrical and Communication Engineering graduate with a strong focus on Cloud Computing, DevOps, and Networking, with hands-on experience in Linux systems, AWS, Kubernetes, and OpenShift. I have a solid foundation in networking (CCNA level), Windows Server administration, and basic cybersecurity concepts including penetration testing. I am familiar with CI/CD pipelines and Infrastructure as Code using Terraform, and I actively work on improving my technical and English communication skills. I am passionate about building scalable, reliable systems and aim to grow as a Cloud/DevOps Engineer while contributing to real-world projects and modern infrastructure environments
+# 👋 Hi, I'm Mohamed Elsayad
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mohamed-mahamoud-elsayad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moeyelsayad777@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohamedElsayad5&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohamedElsayad5&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElsayad5&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=25\&center=true\&vCenter=true\&width=600\&lines=DevOps+Engineer;Cloud+Engineer;CI%2FCD+Enthusiast;Automation+Lover;Always+Learning+New+Technologies)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohamedElsayad5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 **DevOps & Cloud Engineer | Automation Enthusiast**
+☁️ Building **scalable, reliable, and cloud-native systems**
+⚡ Passionate about **CI/CD, Infrastructure as Code & Distributed Systems**
+
+---
+
+## 💫 About Me
+
+I am an **Electrical and Communication Engineering graduate** with a strong focus on **Cloud Computing, DevOps, and Networking**.
+
+* ☁️ Hands-on experience with **AWS, Kubernetes, OpenShift**
+* 🐧 Strong background in **Linux systems & administration**
+* 🌐 Solid networking knowledge (**CCNA level**)
+* 🖥️ Experience with **Windows Server administration**
+* 🔐 Basic knowledge in **Cybersecurity & Penetration Testing**
+* ⚙️ Working with **CI/CD pipelines & Terraform (IaC)**
+* 📈 Improving my **technical & English communication skills**
+
+💡 I’m passionate about building **scalable and production-ready systems**, and growing as a **Cloud/DevOps Engineer**.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohamed-mahamoud-elsayad)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:moeyelsayad777@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![OpenShift](https://img.shields.io/badge/openshift-%23EE0000.svg?style=for-the-badge\&logo=redhatopenshift\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+---
+
+### 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge\&logo=powershell\&logoColor=white)
+
+---
+
+### 🌐 Systems & Networking
+
+![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Windows Server](https://img.shields.io/badge/windows%20server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-Networking-blue?style=for-the-badge)
+
+---
+
+### 🗄️ Databases & Tools
+
+![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+---
+
+### 🔐 Cybersecurity
+
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Basics-red?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MohamedElsayad5\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![Streak](https://streak-stats.demolab.com?user=MohamedElsayad5\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MohamedElsayad5\&theme=tokyonight\&no-frame=true\&margin-w=10)
+
+---
+
+## 📈 Top Languages
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElsayad5\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=MohamedElsayad5\&icon=5\&color=6)
+
+---
+
+⭐ *“Automate everything. Build scalable systems. Never stop learning.”*

@@ -3,9 +3,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,18,20&height=280&section=header&text=Hey%20👋%20I'm%20Mohamed%20Elsayad&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Cairo,%20Egypt%20🇪🇬&descAlignY=55&descSize=18" />
 </div>
 
-<!-- SNAKE ANIMATION - البديل الشغال -->
+<!-- SNAKE ANIMATION - اللينك الصح اللي شغال -->
 <div align="center">
-  <img src="https://github.com/MohamedElsayad5/MohamedElsayad5/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/MohamedElsayad5/MohamedElsayad5/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -35,10 +35,18 @@ Role: DevOps & Cloud Engineer
 Education: Electrical & Communication Engineering
 
 Core_Skills:
-  Cloud: [AWS, GCP, Azure, Kubernetes, OpenShift]
+  Cloud:
+        - AWS
+        - GCP  
+        - Azure
+  
+  Containers_Orchestration:
+        - Kubernetes
+        - OpenShift
+        - Docker
+  
   IaC: [Terraform, Ansible, Helm, Pulumi]
   CI/CD: [GitHub Actions, Jenkins, ArgoCD, GitLab CI]
-  Containers: [Docker, containerd, Podman]
   Monitoring: [Prometheus, Grafana, ELK, Loki]
   Scripting: [Python, Go, Bash, PowerShell]
   Networking: [CCNA Level, VPC, Load Balancers, Istio]
@@ -61,8 +69,11 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 
 <div align="center">
 
-### ☁️ Cloud & Orchestration
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,openshift&theme=dark&perline=6" />
+### ☁️ Cloud Providers
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark&perline=3" />
+
+### 🎯 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,openshift&theme=dark&perline=3" />
 
 ### ⚙️ Infrastructure & Automation  
 <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,argocd,helm&theme=dark&perline=6" />
@@ -130,7 +141,7 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 <td width="50%">
 <h3 align="center">📊 Observability Stack</h3>
 <div align="center">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bU4CbpNW/giphy.gif" width="100%" alt="Monitoring"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="120" alt="Grafana"/>
 <br><br>
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
@@ -148,23 +159,20 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Analytics
 
-<!-- البدائل الشغالة 100% للـ Stats -->
+<!-- البدائل الموثوقة اللي شغالة 100% -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MohamedElsayad5&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&include_all_commits=true" alt="stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElsayad5&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedElsayad5&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&include_all_commits=true&cache_seconds=1800" alt="stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedElsayad5&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&cache_seconds=1800" alt="languages" />
 </div>
 
-<!-- Streak Stats - البديل الشغال -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElsayad5&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="streak" />
 </div>
 
-<!-- 3D Contrib - البديل الشغال -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElsayad5&theme=tokyonight" alt="3D Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElsayad5&theme=tokyonight" alt="Summary Card" />
 </div>
 
-<!-- Activity Graph - البديل الشغال -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElsayad5&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true&radius=10&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
@@ -175,23 +183,19 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 
 <div align="center">
 
-| 🔭 **Working On** | Production EKS + GKE with Istio Service Mesh |
-|:----------------|:---------------------------------------------|
-| 🌱 **Learning** | CKA Certification + Advanced K8s Security |
-| 👯 **Collaborate** | Open Source DevOps Tools & K8s Operators |
-| 💬 **Ask Me About** | Docker, K8s, AWS, GCP, Terraform, CI/CD, Linux |
-| ⚡ **Fun Fact** | I can debug a CrashLoopBackOff in my sleep |
-| 🎯 **2026 Goals** | CKA + AWS Solutions Architect Pro + GCP ACE |
-| 📍 **Location** | Cairo, Egypt 🇪🇬 |
+<img src="https://img.shields.io/badge/Focus-AWS_EKS_&_GitOps-00F7FF?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning-CKA_&_K8s_Security-4CAF50?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Goal-Cloud_Architect-FF6B6B?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_To-DevOps_Roles-FFA500?style=for-the-badge&logo=handshake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Cairo,_Egypt-FF0000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
-<!-- البديل الشغال للـ Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedElsayad5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedElsayad5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" alt="Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

@@ -1,6 +1,6 @@
-<!-- ANIMATED HEADER -->
+<!-- DYNAMIC WAVING HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,18,20&height=280&section=header&text=Hey%20👋%20I'm%20Mohamed&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Cairo,%20Egypt%20🇪🇬&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,18,20&height=280&section=header&text=Hey%20👋%20I'm%20Mohamed%20Elsayad&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Cairo,%20Egypt%20🇪🇬&descAlignY=55&descSize=18" />
 </div>
 
 <!-- SNAKE ANIMATION -->
@@ -12,17 +12,16 @@
   </picture>
 </div>
 
-<!-- TYPING SVG -->
+<!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Automating+Cloud+Infrastructure+☁️;Kubernetes+%7C+AWS+%7C+Terraform+%7C+GitOps;Zero+Downtime+Deployments+🚀;Infrastructure+as+Code+Enthusiast+⚙️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Automating+Cloud+Infrastructure+☁️;Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;Zero+Downtime+Deployments+🚀;Infrastructure+as+Code+Enthusiast+⚙️;From+Cairo+to+the+Cloud+🌍" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- BADGES -->
+<!-- LINKEDIN ONLY -->
 <div align="center">
   
-[[Profile Views](https://visitcount.itsvg.in/api?id=MohamedElsayad5&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 [[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mahamoud-elsayad)
 
 </div>
@@ -39,26 +38,24 @@ Location: Cairo, Egypt 🇪🇬
 Role: DevOps & Cloud Engineer
 Education: Electrical & Communication Engineering
 
-Core_Skills:
-  Cloud: [AWS, Kubernetes, OpenShift, Azure]
-  IaC: [Terraform, Ansible, Helm]
-  CI/CD: [GitHub Actions, Jenkins, ArgoCD, GitLab CI]
-  Containers: [Docker, containerd, Podman]
-  Monitoring: [Prometheus, Grafana, ELK Stack]
-  Scripting: [Python, Go, Bash, PowerShell]
-  Networking: [CCNA Level, VPC, Load Balancers]
-  Systems: [Linux Admin, Windows Server]
+What_I_Do:
+    - ☁️ Build production-grade systems on AWS, GCP, Kubernetes
+    - ⚙️ Automate everything with Terraform, Ansible, Helm
+    - 🚀 Ship code with GitOps & Zero-downtime CI/CD
+    - 📊 Implement observability: Prometheus, Grafana, ELK
+    - 🐧 Linux & Windows Server administration
+    - 🌐 CCNA-level networking knowledge
 
-Current_Mission:
-    - Building production-grade K8s clusters on AWS EKS
-    - Implementing GitOps workflows with ArgoCD
-    - Automating everything with Terraform & Ansible
-    - Achieving 99.99% uptime with proper observability
+Current_Focus:
+    - EKS + Istio Service Mesh
+    - GitOps with ArgoCD
+    - FinOps & Cost Optimization
+    - CKA Certification
 
-Fun_Fact: I troubleshoot in production faster than I make coffee ☕
+Fun_Fact: I debug CrashLoopBackOff faster than I make Turkish coffee ☕
 ```
 
-<br>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -67,19 +64,19 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 <div align="center">
 
 ### ☁️ Cloud & Orchestration
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,openshift&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,openshift&theme=dark&perline=6" />
 
 ### ⚙️ Infrastructure & Automation  
-<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,argocd&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,argocd,helm&theme=dark&perline=6" />
 
 ### 💻 Languages & Scripting
 <img src="https://skillicons.dev/icons?i=python,go,bash,powershell&theme=dark&perline=4" />
 
 ### 📊 Monitoring & Databases
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,postgres,redis&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,postgres,redis,mysql&theme=dark&perline=6" />
 
-### 🖥️ Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows&theme=dark&perline=4" />
+### 🖥️ Operating Systems & Tools
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows,git,nginx&theme=dark&perline=6" />
 
 </div>
 
@@ -95,13 +92,13 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 <div align="center">  
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="K8s Cluster"/>
 <br><br>
-<p><strong>Highly Available K8s on AWS</strong></p>
 <p>
 <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white"/>
 </p>
-<p>Multi-AZ cluster with auto-scaling, service mesh, and full observability</p>
+<p><strong>Multi-AZ K8s on AWS</strong><br>Auto-scaling, service mesh, full observability, 99.99% SLA</p>
 </div>
 </td>
 <td width="50%">
@@ -109,13 +106,13 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 <div align="center">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="CICD"/>
 <br><br>
-<p><strong>Commit to Production in 5 Minutes</strong></p>
 <p>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
 </p>
-<p>Automated testing, security scanning, and blue-green deployments</p>
+<p><strong>Commit to Prod in 5 Minutes</strong><br>Automated tests, security scans, blue-green deployments</p>
 </div>
 </td>
 </tr>
@@ -125,13 +122,12 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="IaC"/>
 <br><br>
-<p><strong>100% Automated Infrastructure</strong></p>
 <p>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
-<p>Complete VPC, EKS, RDS, and networking provisioned via code</p>
+<p><strong>100% Automated Infrastructure</strong><br>VPC, EKS, RDS, ALB - Everything as code</p>
 </div>
 </td>
 <td width="50%">
@@ -139,13 +135,12 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 <div align="center">
 <img src="https://media.giphy.com/media/LaVp0AyqR5bU4CbpNW/giphy.gif" width="100%" alt="Monitoring"/>
 <br><br>
-<p><strong>Full Stack Monitoring</strong></p>
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/AlertManager-FF6C37?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-00F2C3?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
-<p>Metrics, logs, traces with automated alerting and dashboards</p>
+<p><strong>Full Stack Monitoring</strong><br>Metrics, logs, traces with automated alerting</p>
 </div>
 </td>
 </tr>
@@ -183,7 +178,7 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
 |:----------------|:---------------------------------------|
 | 🌱 **Learning** | CKA Certification + Advanced K8s Security |
 | 👯 **Collaborate** | Open Source DevOps Tools & K8s Operators |
-| 💬 **Ask Me About** | Docker, K8s, AWS, Terraform, CI/CD, Linux |
+| 💬 **Ask Me About** | Docker, K8s, AWS, GCP, Terraform, CI/CD, Linux |
 | ⚡ **Fun Fact** | I can debug a CrashLoopBackOff in my sleep |
 | 🎯 **2026 Goals** | CKA + AWS Solutions Architect Pro |
 | 📍 **Location** | Cairo, Egypt 🇪🇬 |
@@ -221,6 +216,4 @@ Fun_Fact: I troubleshoot in production faster than I make coffee ☕
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="15%">
   <br><br>
   <b>“Automate everything. Monitor everything. Scale everything. Sleep peacefully.” ⚙️</b>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=MohamedElsayad5&label=Profile%20views&color=00F7FF&style=flat" alt="Profile views" />
 </div>

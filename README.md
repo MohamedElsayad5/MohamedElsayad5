@@ -3,8 +3,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColors=0a66c2,6c63ff&height=280&section=header&text=Mohamed%20Elsayad&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=☁️%20DevOps%20%7C%20AWS%20%7C%20K8s%20%7C%20Terraform%20%7C%20Cairo,%20Egypt%20🇪🇬&descAlignY=55&descSize=20" />
 </div>
 
-<!-- لو الملف في فرع main -->
-<img src="https://raw.githubusercontent.com/MohamedElsayad5/MohamedElsayad5/main/output/github-contribution-grid-snake-dark.svg" />
 
 <!-- TYPING ANIMATION -->
 <div align="center">

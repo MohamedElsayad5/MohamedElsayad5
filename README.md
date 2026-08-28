@@ -1,6 +1,6 @@
 <!-- DYNAMIC WAVING HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,18,20&height=280&section=header&text=Hey%20👋%20I'm%20Mohamed%20Elsayad&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Cairo,%20Egypt%20🇪🇬&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColors=0a66c2,6c63ff&height=280&section=header&text=Mohamed%20Elsayad&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=☁️%20DevOps%20%7C%20AWS%20%7C%20K8s%20%7C%20Terraform%20%7C%20Cairo,%20Egypt%20🇪🇬&descAlignY=55&descSize=20" />
 </div>
 
 <!-- SNAKE ANIMATION - اللينك الصح اللي شغال -->
